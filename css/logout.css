@@ -1,0 +1,24 @@
+.logout-sec{
+    float: right;
+    margin: 1px 1px 5px 0;
+}
+.logout-sec span{
+    margin-right: 10px;
+    font-style: italic;
+    font-size: .7em;
+}
+@media (max-width: 768px){
+    .logout-sec{
+        margin: 1px 1px 15px 0;
+    }
+}
+@media (max-width: 576px){
+    .logout-sec{
+        margin: 1px 1px 15px 0;
+    }
+}
+@media (max-width: 480px){
+    .logout-sec{
+        margin: 1px 1px 15px 0;
+    }
+}

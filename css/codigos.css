@@ -1,0 +1,34 @@
+#txtCrearNuevo{
+    width: 50px;
+    margin: 10px;
+}
+#codBase{
+    font-size: .9em;
+    margin: 10px;
+    color: gray;
+}
+section button{
+    padding: 1px 15px;
+    display: inline;
+    margin: 10px;
+}
+.codeOk{
+    color: green !important;
+}
+.codeNOk{
+    color: red !important;
+}
+.row-code:hover{
+    background-color: #EFF5FB !important;
+}
+.del-icon{
+    width: 15px;
+    margin-bottom: 4px;
+}
+.codigo-select{
+    display: inline-block;
+    width: 33%;
+}
+.codigo-select select{
+    width: 50%;
+}

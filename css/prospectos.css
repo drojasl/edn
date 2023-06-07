@@ -1,0 +1,10 @@
+.row-prospect:hover{
+    background-color: #EFF5FB !important;
+}
+.viewed-icon{
+    width: 15px;
+    margin-bottom: 4px;
+}
+.unviewed{
+    background-color: #F7F2E0 !important;
+}

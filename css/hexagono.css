@@ -1,0 +1,259 @@
+  body{
+    font-family:'Open Sans', arial, sans-serif;
+    background-image:url("../images/huellas-de-pasos.png");
+    background-repeat:no-repeat;
+  }
+  *{
+    margin:0;
+    padding:0;
+  }
+  #categories{
+    overflow:hidden;
+    width:90%;
+    margin:0 auto;
+  }
+  .clr:after{
+    content:"";
+    display:block;
+    clear:both;
+  }
+  #categories li{
+    position:relative;
+    list-style-type:none;
+    width:30%; /* = (100-2.5) / 3.5 */
+    padding-bottom: 35%; /* =  width /0.866 */
+    float:left;
+    overflow:hidden;
+    visibility:hidden;
+   
+    -webkit-transform: rotate(-60deg) skewY(30deg);
+    -ms-transform: rotate(-60deg) skewY(30deg);
+    transform: rotate(-60deg) skewY(30deg);
+  }
+  #categories li:nth-child(3n+2){
+    margin:0 1%;
+  }
+  #categories li:nth-child(6n+4){
+    margin-left:0.5%;
+  }
+  #categories li:nth-child(6n+4), #categories li:nth-child(6n+5), #categories li:nth-child(6n+6) {
+    margin-top: -6.9285714285%;
+    margin-bottom: -6.9285714285%;
+    
+    -webkit-transform: translateX(50%) rotate(-60deg) skewY(30deg);
+    -ms-transform: translateX(50%) rotate(-60deg) skewY(30deg);
+    transform: translateX(50%) rotate(-60deg) skewY(30deg);
+  }
+  #categories li:nth-child(6n+4):last-child, #categories li:nth-child(6n+5):last-child, #categories li:nth-child(6n+6):last-child{
+    margin-bottom:0%;
+  }
+  #categories li *{
+    position:absolute;
+    visibility:visible;
+  }
+  #categories li > div{
+    width:100%;
+    height:100%;
+    text-align:center;
+    color:#fff;
+    overflow:hidden;
+    
+    -webkit-transform: skewY(-30deg) rotate(60deg);
+    -ms-transform: skewY(-30deg) rotate(60deg);
+    transform: skewY(-30deg) rotate(60deg);
+    
+    -webkit-backface-visibility:hidden;
+    
+  }
+  
+  /* HEX CONTENT */
+  #categories li img{
+    left:-100%; right:-100%;
+    width: auto; height:100%;
+    margin:0 auto;
+    cursor: pointer;
+  }
+  
+  #categories div h1, #categories div p{
+    width:90%;
+    padding:0 5%;
+    background-color:#008080; background-color: rgba(0, 128, 128, 0.4);
+    font-family: 'Raleway', sans-serif;
+    
+    -webkit-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+    -ms-transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+    transition: top .2s ease-out, bottom .2s ease-out, .2s padding .2s ease-out;
+    cursor: pointer;
+  }
+  #categories li h1{
+    bottom:110%;
+    font-style:italic;
+    font-weight:bold;
+    padding-top:100%;
+    padding-bottom:100%;
+    font-size:2em;
+  }
+  #categories li h1:after{
+    content:'';
+    display:block;
+    position:absolute;
+    bottom:-1px; left:45%;
+    width:10%;
+    text-align:center;
+    z-index:1;
+    border-bottom:2px solid #fff;
+  }
+  #categories li p{
+      padding-top:50%;
+      top:110%;
+      padding-bottom:50%;
+      font-size:1.3em;
+  }
+  
+  
+  /* HOVER EFFECT  */
+  
+  #categories li div h1 {
+    bottom:50%;
+    padding-bottom:10%;
+  }
+  
+  #categories li div p{
+    font-weight:bold;
+    top:50%;
+    padding-top:10%;
+  }
+
+  #categories li div:hover h1 {
+    bottom:100%;
+  }
+
+  #categories li div:hover p{
+    top:100%;
+  }
+
+  *, ::after, ::before{
+    box-sizing:content-box;
+  }
+
+    /* Small devices (vertical phones, 300px and up) */
+    @media (min-width: 300px){
+        body{
+            background-image:url("../images/huellas-de-pasos-xs.png");
+        }
+        #categories li div h1 {
+            bottom:47%;
+            padding-bottom:5%;
+        }
+        #categories li div p{
+            top:47%;
+            padding-top:5%;
+        }
+        #categories li h1{
+            font-size:0.75em;
+        }
+        #categories li p{
+            font-size:0.55em;
+        }
+    }
+
+    /* Small devices (landscape phones, 576px and up) */
+    @media (min-width: 450px) {
+        body{
+            background-image:url("../images/huellas-de-pasos-sm.png");
+        }
+        #categories li div h1 {
+            bottom:48%;
+            padding-bottom:5%;
+        }
+        #categories li div p{
+            top:47%;
+            padding-top:5%;
+        }
+        #categories li h1{
+            font-size:0.9em;
+        }
+        #categories li p{
+            font-size:0.7em;
+        }
+    }
+
+    /* Small devices (landscape phones, 576px and up) */
+    @media (min-width: 576px) {
+        body{
+            background-image:url("../images/huellas-de-pasos-md.png");
+        }
+        #categories li div h1 {
+            bottom:49%;
+            padding-bottom:5%;
+        }
+        #categories li div p{
+            top:47%;
+            padding-top:5%;
+        }
+        #categories li h1{
+            font-size:1.1em;
+        }
+        #categories li p{
+            font-size:0.8em;
+        }
+    }
+
+    /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 780px) {
+        body{
+            background-image:url("../images/huellas-de-pasos-lg.png");
+        }
+        #categories li div h1 {
+            bottom:50%;
+            padding-bottom:5%;
+        }
+        #categories li div p{
+            top:48%;
+            padding-top:5%;
+        }
+        #categories li h1{
+            font-size:1.5em;
+        }
+        #categories li p{
+            font-size:1.2em;
+        }
+    }
+
+    /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) {
+        body{
+            background-image:url("../images/huellas-de-pasos-xl.png");
+        }
+        #categories li div h1 {
+            bottom:50%;
+        }
+        #categories li div p{
+            top:48%;
+        }
+        #categories li h1{
+            font-size:1.8em;
+        }
+        #categories li p{
+            font-size:1.2em;
+        }
+    }
+
+    /* Extra large devices (large desktops, 1200px and up) */
+    @media (min-width: 1200px) {
+        body{
+            background-image:url("../images/huellas-de-pasos.png");
+        }
+        #categories li div h1 {
+            bottom:50%;
+        }
+        #categories li div p{
+            top:48%;
+        }
+        #categories li h1{
+            font-size:2.2em;
+        }
+        #categories li p{
+            font-size:1.5em;
+        }
+    }

@@ -1,0 +1,330 @@
+[12-Mar-2021 11:19:01 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[15-Mar-2021 14:54:09 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[15-Mar-2021 14:54:09 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[15-Mar-2021 14:54:09 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[15-Mar-2021 14:54:09 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[15-Mar-2021 14:54:09 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[15-Mar-2021 14:54:09 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[15-Mar-2021 14:54:09 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 6
+[15-Mar-2021 14:54:09 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 6
+[15-Mar-2021 14:54:09 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 10
+[15-Mar-2021 14:54:09 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[15-Mar-2021 14:54:09 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[15-Mar-2021 14:54:09 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[15-Mar-2021 14:54:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[16-Mar-2021 03:58:54 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[22-Mar-2021 13:10:38 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[28-Mar-2021 08:45:50 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[07-Apr-2021 10:37:59 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[15-Apr-2021 02:12:32 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[20-Apr-2021 11:14:26 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[25-Apr-2021 00:34:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[29-Apr-2021 18:41:11 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[30-Apr-2021 19:04:44 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[01-May-2021 11:04:04 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[01-May-2021 11:04:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[04-May-2021 02:41:28 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[07-May-2021 14:50:08 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[10-May-2021 03:44:55 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[13-May-2021 21:41:52 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 02:27:38 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 02:49:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 02:51:05 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 02:57:58 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 03:01:00 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 03:01:55 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 03:07:56 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:07:56 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:07:56 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:07:56 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:07:56 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:07:56 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:07:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:08:08 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:08:08 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:08:08 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:08:08 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:08:08 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:08:08 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:08:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:10:09 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:10:09 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:10:09 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:10:09 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:10:09 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:10:09 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:10:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:10:18 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:10:18 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:10:18 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:10:18 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:10:18 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:10:18 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:10:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:31:48 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:31:48 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:31:48 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:31:48 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:31:48 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:31:48 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:31:54 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 03:32:28 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:32:28 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:32:28 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:32:28 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:32:28 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:32:28 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:32:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:32:39 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 03:32:56 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:32:56 UTC] PHP Warning:  include_once(CLASSESBD.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:32:56 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESBD.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 3
+[19-May-2021 03:32:56 UTC] PHP Warning:  Use of undefined constant CLASSES - assumed 'CLASSES' (this will throw an Error in a future version of PHP) in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:32:56 UTC] PHP Warning:  include_once(CLASSESEmpresario.php): failed to open stream: No such file or directory in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:32:56 UTC] PHP Warning:  include_once(): Failed opening 'CLASSESEmpresario.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 4
+[19-May-2021 03:32:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Empresario' not found in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 15
+[19-May-2021 03:36:57 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 03:43:04 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 04:40:50 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 04:43:25 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 11:45:29 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 23:51:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-May-2021 23:54:19 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-May-2021 02:40:05 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-May-2021 10:26:11 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[24-May-2021 21:16:18 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[24-May-2021 21:16:53 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[25-May-2021 04:42:59 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[25-May-2021 04:48:05 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[26-May-2021 04:18:42 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[27-May-2021 19:22:08 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[27-May-2021 21:41:53 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[01-Jun-2021 01:24:55 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[04-Jun-2021 09:23:55 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Jun-2021 04:09:21 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[10-Jun-2021 23:07:15 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[10-Jun-2021 23:10:36 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[10-Jun-2021 23:12:59 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[11-Jun-2021 09:15:16 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[15-Jun-2021 05:47:40 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[17-Jun-2021 04:57:22 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-Jun-2021 00:46:54 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-Jun-2021 14:48:22 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[20-Jun-2021 07:27:09 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[21-Jun-2021 21:30:28 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 14
+[22-Jun-2021 03:20:23 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 23
+[22-Jun-2021 03:20:25 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-Jun-2021 00:03:05 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-Jun-2021 00:04:01 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-Jun-2021 00:06:11 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[27-Jun-2021 06:19:48 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[01-Jul-2021 01:32:52 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[04-Jul-2021 12:33:46 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Jul-2021 17:35:17 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[07-Jul-2021 04:14:27 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[07-Jul-2021 05:01:59 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[10-Jul-2021 03:29:03 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Jul-2021 05:21:57 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Jul-2021 21:36:23 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Jul-2021 21:36:56 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Jul-2021 21:37:54 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[22-Jul-2021 08:40:14 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[28-Jul-2021 15:54:26 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[29-Jul-2021 11:36:22 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[04-Aug-2021 05:50:13 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[09-Aug-2021 23:32:55 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Aug-2021 10:59:16 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[21-Aug-2021 04:49:48 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[21-Aug-2021 17:10:12 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-Aug-2021 09:59:51 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[23-Aug-2021 15:10:11 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[24-Aug-2021 03:16:30 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[24-Aug-2021 03:17:46 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 14
+[25-Aug-2021 18:01:23 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 23
+[25-Aug-2021 18:01:24 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[26-Aug-2021 01:41:12 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[27-Aug-2021 00:16:15 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[27-Aug-2021 16:27:16 UTC] PHP Notice:  Undefined index: EmpresarioLogueado in /home/v8k659s1d3xb/public_html/curso/admin/codigo_crear.php on line 13
+[27-Aug-2021 16:27:16 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/v8k659s1d3xb/public_html/curso/admin/codigo_crear.php on line 15
+[02-Sep-2021 00:31:03 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[05-Sep-2021 02:39:32 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[05-Sep-2021 02:40:17 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[05-Sep-2021 03:13:47 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[05-Sep-2021 20:16:01 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Sep-2021 01:39:53 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Sep-2021 03:29:44 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Sep-2021 13:54:57 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Sep-2021 13:55:02 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[08-Sep-2021 05:23:33 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[08-Sep-2021 19:35:09 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[08-Sep-2021 19:35:44 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[08-Sep-2021 23:16:50 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[09-Sep-2021 01:24:19 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[09-Sep-2021 02:23:48 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[09-Sep-2021 02:48:24 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[09-Sep-2021 02:58:10 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[09-Sep-2021 21:17:40 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[11-Sep-2021 02:56:42 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[13-Sep-2021 02:08:51 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[13-Sep-2021 02:15:15 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[14-Sep-2021 01:15:48 UTC] PHP Notice:  Undefined index: EmpresarioLogueado in /home/v8k659s1d3xb/public_html/curso/admin/prospecto_visto.php on line 10
+[14-Sep-2021 01:15:53 UTC] PHP Notice:  Undefined index: EmpresarioLogueado in /home/v8k659s1d3xb/public_html/curso/admin/prospecto_visto.php on line 10
+[14-Sep-2021 01:15:54 UTC] PHP Notice:  Undefined index: EmpresarioLogueado in /home/v8k659s1d3xb/public_html/curso/admin/prospecto_visto.php on line 10
+[14-Sep-2021 02:38:43 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[15-Sep-2021 08:14:13 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[15-Sep-2021 23:13:13 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Sep-2021 04:49:39 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[16-Sep-2021 04:49:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[19-Sep-2021 21:04:27 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[21-Sep-2021 01:26:33 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[22-Sep-2021 03:26:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[04-Oct-2021 04:08:51 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[04-Oct-2021 04:26:23 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[05-Oct-2021 19:48:33 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[06-Oct-2021 17:05:19 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[11-Oct-2021 06:20:55 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 91
+[12-Oct-2021 16:35:37 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[21-Oct-2021 18:20:28 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[28-Oct-2021 06:26:28 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[28-Oct-2021 21:03:06 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[30-Oct-2021 07:13:58 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 14
+[30-Oct-2021 11:45:43 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 23
+[30-Oct-2021 11:45:46 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 14
+[01-Nov-2021 12:11:46 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 23
+[01-Nov-2021 12:11:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[06-Nov-2021 16:00:43 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[13-Nov-2021 13:24:07 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[15-Nov-2021 08:27:16 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[15-Nov-2021 22:40:42 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 02:10:06 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 02:14:25 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 02:25:41 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 03:01:00 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 03:02:00 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 03:02:02 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Nov-2021 19:08:24 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[23-Nov-2021 02:02:34 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[23-Nov-2021 02:27:07 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[23-Nov-2021 02:28:08 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 03:21:32 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 18:51:04 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 19:22:01 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:19 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:20 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:20 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:20 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:20 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:20 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:20 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Nov-2021 21:10:21 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[02-Dec-2021 16:50:39 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[10-Dec-2021 04:10:01 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[12-Dec-2021 10:01:13 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[18-Dec-2021 17:45:52 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[25-Dec-2021 04:56:11 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[01-Jan-2022 19:43:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[03-Jan-2022 00:38:12 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[03-Jan-2022 03:06:10 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[04-Jan-2022 04:40:27 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[06-Jan-2022 12:43:51 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 10
+[06-Jan-2022 12:43:51 UTC] PHP Notice:  Undefined index: email in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 14
+[06-Jan-2022 12:43:51 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 15
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 14
+[07-Jan-2022 11:23:18 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 23
+[07-Jan-2022 11:23:21 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[08-Jan-2022 16:58:40 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[11-Jan-2022 08:20:41 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[13-Jan-2022 00:41:59 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[13-Jan-2022 03:11:19 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[13-Jan-2022 03:14:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[19-Jan-2022 07:06:42 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[20-Jan-2022 02:46:57 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[24-Jan-2022 12:24:45 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[01-Feb-2022 04:40:06 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[02-Feb-2022 16:14:52 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[04-Feb-2022 14:15:49 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[04-Feb-2022 19:21:34 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[06-Feb-2022 12:41:33 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[07-Feb-2022 22:49:28 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[08-Feb-2022 16:08:29 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 7
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 11
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 12
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: nombres in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 13
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: apellidos in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 14
+[08-Feb-2022 20:31:14 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/registrarEmpresario.php on line 23
+[08-Feb-2022 20:31:15 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[09-Feb-2022 14:48:40 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[09-Feb-2022 22:45:07 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[10-Feb-2022 01:29:36 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 10
+[10-Feb-2022 01:29:36 UTC] PHP Notice:  Undefined index: email in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 14
+[10-Feb-2022 01:29:36 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 15
+[12-Feb-2022 04:48:45 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 10
+[12-Feb-2022 04:48:45 UTC] PHP Notice:  Undefined index: email in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 14
+[12-Feb-2022 04:48:45 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/recuperar_password2.php on line 15
+[12-Feb-2022 05:31:09 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 6
+[12-Feb-2022 05:31:09 UTC] PHP Notice:  Undefined index: email in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 7
+[12-Feb-2022 05:31:09 UTC] PHP Notice:  Undefined index: celular in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 8
+[12-Feb-2022 05:31:10 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 16
+[12-Feb-2022 05:31:10 UTC] PHP Notice:  Undefined index: repassword in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 16
+[12-Feb-2022 05:31:10 UTC] PHP Notice:  Undefined index: password in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 20
+[12-Feb-2022 05:31:10 UTC] PHP Notice:  Undefined index: codigo_amway in /home/v8k659s1d3xb/public_html/curso/admin/recoveryPass.php on line 21
+[15-Feb-2022 06:11:24 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[16-Feb-2022 02:54:53 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[20-Feb-2022 11:21:42 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90
+[23-Feb-2022 01:11:08 UTC] PHP Notice:  Undefined variable: selected in /home/v8k659s1d3xb/public_html/curso/admin/registro.php on line 90

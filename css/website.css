@@ -1,0 +1,81 @@
+body {
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif
+}
+#mainMenu a:hover{
+    text-decoration: none;
+    border-bottom-color: orange !important;
+    border-bottom: 2px solid;
+}
+#mainMenu .menuActive{
+    border-bottom-color: orange !important;
+    color: #0056b3;
+    font-weight: bold;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+.error{
+    background-color: #F6CECE;
+    color: #DF0101;
+}
+.info{
+    background-color: #CECEF6;
+    color: #0000FF;
+}
+.success{
+    background-color: #A9F5A9;
+    color: #088A08;
+}
+.error, .info, .success{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+.messageFixed{
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+}
+.imageIcon{
+    width: 30px;
+    max-height: 30px;
+}
+.imageIconMid{
+    width: 50px;
+    max-height: 50px;
+}
+
+.imgWasape{
+    width: 20px;
+    margin-left: 5px;
+}
+.secContent{
+    margin: 3em;
+}
+.questionHelp{
+    width: 20px;
+}
+.video-titulo{
+    color: #2858c2;
+    font-family: Courier, "Lucida Console", monospace;
+}
+@media (max-width: 768px){
+    .secContent{
+        margin: 0;
+    }
+}
+@media (max-width: 576px){
+    .secContent{
+        margin: 10px;
+    }
+}
+@media (max-width: 480px){
+    .secContent{
+        margin: 0;
+    }
+}

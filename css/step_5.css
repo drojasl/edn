@@ -1,0 +1,101 @@
+.step-by-step {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    max-width: 1000px;
+}
+
+.step-by-step ul {
+    margin-right: 70px;
+    position: relative;
+    margin-left: 35px;
+    padding: 0;
+    max-width: calc(90% - 35px);
+}
+
+.step-by-step ul li {
+    position: relative;
+    float: left;
+    width: 50%; /* 3 Steps */
+    width: 25%; /* 5 Steps */
+    height: 36px;
+    background: url("https://s.cdpn.io/3561/step_by_step.png") no-repeat left -108px;
+    list-style-type: none;
+}
+
+.step-by-step ul li.first-step {
+    background-position: left 0;
+}
+
+.step-by-step ul li.last-step {
+    position: absolute;
+    right: 70px;    /* 3 Steps */
+    right: -35px;   /* 5 Steps */
+    top: 0;
+    width: 36px;
+    background-position: right 0;
+}
+
+.step-by-step ul li.step-current {
+    background-position: left -144px;
+}
+
+.step-by-step ul li.step-current.first-step {
+    background-position: left -36px;
+}
+
+.step-by-step ul li.step-current.last-step {
+    background-position: right -36px;
+}
+
+.step-by-step ul li.step-ok {
+    background-position: left -180px;
+}
+
+.step-by-step ul li.step-ok.first-step {
+    background-position: left -72px;
+}
+
+.step-by-step ul li.step-ok.last-step {
+    background-position: right -72px;
+}
+
+.step-by-step ul li span {
+    position: absolute;
+    left: -40px;
+    top: 45px;
+    width: 120px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.1;
+    color: #b1b8bf;
+    font-size: 10px;
+}
+
+.step-by-step ul li.step-current span {
+    color: #4C5B6A;
+}
+
+.step-by-step ul li.step-ok span {
+    color: #999FA5;
+    text-decoration: line-through;
+}
+
+@media (max-width: 768px){
+
+}
+@media (max-width: 576px){
+    .step-by-step ul li span {
+        display: none;
+    }
+    .step-by-step ul li.step-current span {
+        display: block !important;
+    }
+}
+@media (max-width: 480px){
+    .step-by-step ul li span {
+        display: none;
+    }
+    .step-by-step ul li.step-current span {
+        display: block !important;
+    }
+}

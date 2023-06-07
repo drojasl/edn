@@ -1,0 +1,18 @@
+.txtCondiciones span{
+    margin-left: 40px;
+}
+.nextEvent{
+    text-align: center;
+    margin-top: 20px;
+}
+.nextEvent img{
+    max-height: 400px;
+    /*margin-bottom: 30px;*/
+}
+.imgWasape{
+    margin-top: 15px;
+}
+h4,h5{
+    display: inline;
+    margin-left: 40px;
+}

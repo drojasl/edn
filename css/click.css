@@ -1,0 +1,11 @@
+.flyer{
+    width: 30%;
+    display: inline;
+}
+form{
+    display: inline;
+}
+form input[type='text']{
+    width: 100px;
+    margin: 10px;
+}

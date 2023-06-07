@@ -1,0 +1,65 @@
+.container {
+    margin: 0 auto;
+}
+section button {
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    display: block;
+    background-color: #009ac9;
+    border: 1px solid transparent;
+    color: #ffffff;
+    font-weight: 300;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+.buttonSec{
+    text-align: center;
+    width: 100%;
+    /*margin-bottom: 5rem;*/
+}
+.buttonSec button{
+    display: inline;
+    margin-bottom: 10px;
+}
+section button:hover {
+    background-color: #ffffff;
+    color: #009ac9;
+    border-color: #009ac9;
+}
+section button:active {
+    background-color: #009ac9;
+    color: #ffffff;
+    border-color: #ffffff;
+}
+button.btnDisabled, button:hover.btnDisabled{
+    background-color: LightGray;
+    color: #ffffff;
+    border-color: LightGray;
+}
+#btnPrev,#btnNext{
+    padding: 7px 25px;
+    margin: 30px;
+}
+
+@media (max-width: 768px){
+    #btnPrev,#btnNext{
+        margin: 10px;
+    }
+}
+@media (max-width: 576px){
+    #btnPrev,#btnNext{
+        margin: 10px;
+    }
+}
+@media (max-width: 480px){
+    #btnPrev,#btnNext{
+        margin: 10px;
+    }
+}

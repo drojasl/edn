@@ -1,0 +1,53 @@
+h1,h2{
+    margin: 20px;
+}
+h3{
+    display: inline;
+}
+.grid{
+    margin-top: 20px;
+}
+.thumbnail{
+    margin-bottom: 10px;
+    cursor: pointer;
+    text-align: center;
+    height: 90%;
+}
+.thumbnail .gridCaption{
+    margin: 7px;
+    text-align: left;
+    color: #848484;
+}
+.thumbnail img{
+    margin-top: 5px;
+    width: 95%;
+}
+.thumbnail:hover{
+    background-color: #EFF5FB;
+}
+.thumbnail:hover .gridCaption{
+    color: #000;
+}
+#js-trigger-overlay{
+    padding: 7px 25px;
+}
+.selected-choise{
+    background-color: #2E9AFE;
+}
+.selected-choise:hover{
+    background-color: #2E9AFE;
+    color: #fff;
+}
+.selected-choise .gridCaption{
+    color: #fff;
+}
+.selected-choise:hover .gridCaption{
+    color: #fff;
+}
+.field-datos{
+    border-style: double none;
+    padding: 20px;
+}
+.parametros input{
+    
+}
